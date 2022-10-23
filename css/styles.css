@@ -1,0 +1,97 @@
+.img-fluid1{
+    margin-left: 23px;
+}
+.img-fluid2{
+    margin-top: -475px;
+    margin-left: 498px;
+}
+.img-fluid3{
+    margin-left: 814px;
+    margin-top: -476px;
+}
+.img-fluid4{
+    margin-left: 498px;
+    margin-top: -241px;
+}
+.img-fluid5{
+    margin-left: 153px;
+    margin-top: -188px;
+}
+.img-fluid6{
+    margin-bottom: -263px;
+    margin-top: -253px;
+    margin-left: 24px;
+    margin-right: -65px;
+}
+.img-fluid7{
+    margin-right: -429px;
+    margin-top: 10px;
+    margin-left: 75px;
+}
+.img-fluid8{
+    margin-left: 652px;
+    margin-top: -220px;
+}
+
+.navbar{
+    margin-bottom: 63px;
+    
+}
+.center{
+    margin-left: 200px !important
+}
+img{
+    margin-left: 62px;
+}
+.border{
+    border-radius: 15px;
+}
+#banner1{
+    margin-left: 813px;
+    margin-bottom: -222px;
+    margin-top: -473px;
+    position: relative;
+    width: 140px;
+    height: 220px;
+    background-color: #005DAA;
+    border-radius: 15px;
+}
+#banner1 .bImg {
+    margin: 20px 20px 20px 20px;
+}
+#banner1 .banner-desc > .banner-text {
+    padding: 12px 18px 15px 18px;
+    color: #ffffff;
+    line-height: 16px;
+    white-space: normal !important;
+    word-break: keep-all;
+}
+#banner1 .banner-link {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 29px 0 0;
+    float: right;
+}
+.arrow{
+    margin-left: 118px;
+    margin-top: -16px;
+}
+#banner2{
+    margin-left: 499px;
+    margin-top: 253px;
+    position: relative;
+    width: 140px;
+    height: 220px;
+    background-color: #02aff0;
+    border-radius: 15px;   
+}
+.details{
+    font-size: 14px;
+    line-height: 16px;
+    color: #fff;
+    margin: 20px;
+    display: inline-block;
+}
+.currency{
+    margin-left: 1px;
+}
